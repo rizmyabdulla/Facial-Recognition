@@ -36,7 +36,7 @@
 
 ## Bugs
 
-- Stucking When Speacking(Speech Recognition)
+- Stucking When Speaking(Speech Recognition)
 
 ## ESP32 cam With Face Recognition (Using IP)
 
