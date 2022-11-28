@@ -59,6 +59,6 @@
 - You Need To Upload This Code, ESP32 Camera Web Server/
 
 
-## HappyCoding :heart_on_fire: :speak_no_evil:
+## Happy Coding :heart_on_fire: :speak_no_evil:
 
 
