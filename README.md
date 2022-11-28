@@ -56,7 +56,7 @@
 
   >  RGB_Frame = frame[:, :, ::-1]
 
-- [You Need To Upload This Code](ESP32 Camera Web Server/)
+[You Need To Upload This Code](ESP32 Camera Web Server/)
 
 
 ## HappyCoding :heart_on_fire: :speak_no_evil:
